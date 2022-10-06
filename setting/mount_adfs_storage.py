@@ -1,8 +1,8 @@
 # Databricks notebook source
 storage_account_name = 'lsformularone'
-client_app_id ='e8e67e66-abad-44a3-8541-13bac28e467e'
-tenant_directory_id = 'd11185cc-5b35-406e-bb67-c12056098b1f'
-client_secret = 'Enc8Q~ErS94~Fp8EzwI2XayjhX6EOrxOldPeEbgk'
+client_app_id ='xxxxxxx-abad-44a3-8541-11111111111111'
+tenant_directory_id = 'xxxxxxx-5b35-406e-bb67-eeeeeeee'
+client_secret = 'xxxxxxxx~Fp8EzwI2XayjhX6EOrrrrrrrrrrrr'
 
 # COMMAND ----------
 
